@@ -103,14 +103,14 @@ quote{
 }
 
 #call-card{
-    margin: 10%;
+    margin: 4% 10%;
     background-color: #3882F6;
     border-radius: 5px;
     color: #E5E7EB;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 5%;
+    padding: 2% 5%;
 }
 
 .blue-container{
